@@ -28,8 +28,8 @@ console.log(stringVariable);
 
 //explicit and implicit data types
 
-let nameofPerson:String="Muhammad Usman";
-let nameofSecondPerson="Sir";
+let nameofPerson:String="Muhammad Usman";//explicit
+let nameofSecondPerson="Sir";//implicit
 
 console.log(nameofPerson);
 console.log(nameofSecondPerson);
